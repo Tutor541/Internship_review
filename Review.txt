@@ -4,7 +4,7 @@ Git bash
 Trae.ai IDE
 
 Day 2
-Try to build MCP server utilizing the YouTube Data API with Trae.ai
+Todoy I try yo use builder with MCP server for Trae.ai to utilizing the YouTube Data API.
 
 Day 3
 Cline.ai plug-in VS-code
