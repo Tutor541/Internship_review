@@ -4,3 +4,4 @@ git bash
 Trae.ai
 
 Day 2
+Mcp server
