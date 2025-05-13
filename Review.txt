@@ -2,3 +2,5 @@ Day 1
 Vibe coding
 git bash
 Trae.ai
+
+Day 2
