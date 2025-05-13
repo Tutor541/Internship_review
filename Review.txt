@@ -1,7 +1,10 @@
 Day 1
-Vibe coding
-git bash
-Trae.ai
+what Vibe coding
+Git bash
+Trae.ai IDE
 
 Day 2
-Mcp server
+Try to build MCP server utilizing the YouTube Data API with Trae.ai
+
+Day 3
+Cline.ai plug-in VS-code
