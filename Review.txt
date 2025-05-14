@@ -7,4 +7,4 @@ Day 2
 I try to use builder with MCP server for Trae.ai to utilizing the YouTube Data API.
 
 Day 3
-Try to use GitHub MCP Server Integrate in Trae.ai to craete a snake game.
+Today use GitHub MCP Server Integrate in Trae.ai with vibe coding to craete a snake game.
