@@ -11,7 +11,8 @@ Today use GitHub MCP Server Integrate in Trae.ai with vibe coding
 to craete a snake game.
 
 Day 4
-Use Builder with MCP Server in Trae.ai to create EV Charging Station Controller programs
+Use Builder with MCP Server in Trae.ai 
+to create EV Charging Station Controller programs
 
 Day 5
-Try to Integrate Trae.ai to Matlab with MCP server.
+Try to Integrate Trae.ai with mcp server to Matlab.
