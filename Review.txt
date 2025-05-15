@@ -7,7 +7,11 @@ Day 2
 I try to use builder with MCP server for Trae.ai to utilizing the YouTube Data API.
 
 Day 3
-Today use GitHub MCP Server Integrate in Trae.ai with vibe coding to craete a snake game.
+Today use GitHub MCP Server Integrate in Trae.ai with vibe coding 
+to craete a snake game.
 
 Day 4
-Today use GitHub MCP Server Integrate in Trae.ai to  simulate EV Charging Station Controller with MCP
+Use Builder with MCP Server in Trae.ai to create EV Charging Station Controller programs
+
+Day 5
+Try to Integrate Trae.ai to Matlab with MCP server.
