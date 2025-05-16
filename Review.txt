@@ -15,4 +15,4 @@ Use Builder with MCP Server in Trae.ai
 to create EV Charging Station Controller programs
 
 Day 5
-Try to Integrate Trae.ai with mcp server to Matlab.
+Try to integrate Matlab MCP Server to Trae.ai .
