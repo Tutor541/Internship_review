@@ -18,4 +18,9 @@ Day 5,Day 6
 Try to integrate Matlab MCP Server to Trae.ai . 
 
 Day 7
-classify dataset car image.
+classify dataset image.
+
+Day 8
+Continue classify dataset.
+
+Day 9
