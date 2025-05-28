@@ -27,5 +27,5 @@ Day 12
 use Unity MCP to create 3D game
 
 Day 13
-use Discord MCP server to manage discord bot and server.
+use Discord MCP server connect with discord bot to manage server.
 
