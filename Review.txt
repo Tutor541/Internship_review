@@ -8,7 +8,7 @@ I try to use builder with MCP server for Trae.ai to utilizing the YouTube Data A
 
 Day 3
 Today use GitHub MCP Server Integrate in Trae.ai with vibe coding 
-to craete a snake game.
+to create a snake game.
 
 Day 4
 Use Builder with MCP Server in Trae.ai 
@@ -17,10 +17,15 @@ to create EV Charging Station Controller programs
 Day 5,Day 6
 Try to integrate Matlab MCP Server to Trae.ai . 
 
-Day 7
+Day 7,8.9,10
 classify dataset image.
 
-Day 8
-Continue classify dataset.
+Day 11
+Finish to classify dataset.
 
-Day 9
+Day 12
+use Unity MCP to create 3D game
+
+Day 13
+use Discord MCP server to manage discord bot and server.
+
