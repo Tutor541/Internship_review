@@ -1,5 +1,5 @@
 Day 1
-what Vibe coding
+what is Vibe coding
 Git bash
 Trae.ai IDE
 
@@ -12,7 +12,7 @@ to create a snake game.
 
 Day 4
 Use Builder with MCP Server in Trae.ai 
-to create EV Charging Station Controller programs
+to create EV Charging Station Controller programs.
 
 Day 5,Day 6
 Try to integrate Matlab MCP Server to Trae.ai . 
@@ -28,4 +28,9 @@ use Unity MCP to create 3D game
 
 Day 13
 use Discord MCP server connect with discord bot to manage server.
+
+Day 14
+Start planning and research about topic for internship
+
+Day 15
 
