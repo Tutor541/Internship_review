@@ -33,4 +33,10 @@ Day 14
 Start planning and research topic for internship project.
 
 Day 15
-Finished planning and send topic for internship project to advisor.
+Finish planned and send topic for internship project to advisor.
+
+Day 16
+
+
+Day 17
+Create function for my own MCP sever
